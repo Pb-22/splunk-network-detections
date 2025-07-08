@@ -1,12 +1,3 @@
-Here is your fully restored and formatted **Markdown version** of the "Suspicious Repeated Web Polling with `rnd=`" detection. It includes:
-
-* Proper section headers
-* Code block with generalized index and sourcetype
-* A restored and clean field description table
-* Bulleted next steps
-
----
-
 # **Suspicious Repeated Web Polling with `rnd=`**
 
 This page documents a Splunk detection to identify repeated HTTP requests to file-based endpoints containing randomized `rnd=` query parameters — a pattern often associated with **command-and-control (C2) beaconing**.
