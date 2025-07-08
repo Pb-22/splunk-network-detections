@@ -1,6 +1,3 @@
-Here is your restored **Markdown version** of the CertUtil detection, fully formatted with headings, bullet points, code blocks, and the field table—all based on the contents of your uploaded text file:
-
----
 
 # **Scripted or Command Line CertUtil Usage**
 
